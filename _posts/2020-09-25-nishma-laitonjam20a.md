@@ -17,7 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
-id: nishma-laitonjam20a
+id: laitonjam20a
 month: 0
 tex_title: Scalable Inference on the Soft Affiliation Graph Model for Overlapping
   Community Detection
@@ -26,10 +26,12 @@ lastpage: 688
 page: 673-688
 order: 673
 cycles: false
-bibtex_author: Nishma Laitonjam, Weipeng Huang and Hurley, Neil J.
+bibtex_author: Nishma Laitonjam and Weipeng Huang and Hurley, Neil J.
 author:
-- given: Weipeng Huang
-  family: Nishma Laitonjam
+- given: Nishma 
+  family: Laitonjam
+- given: Weipeng 
+  family: Huang
 - given: Neil J.
   family: Hurley
 date: 2020-09-25
